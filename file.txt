@@ -14,3 +14,7 @@ chinh sua branch 2 lan 12
 chinh tiep lan 12
 W
 
+chinh sua stash
+
+chinnh sua j do
+
