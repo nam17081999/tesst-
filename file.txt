@@ -3,3 +3,5 @@ van ban
 chinh sua 1 tren branch2
 
 chinh sua 1 tren branch 3
+
+chinh sua 2 tren branch 3 nhung ko commit
