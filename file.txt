@@ -10,6 +10,7 @@ chinh sua 2 tren branch 2
 
 chinh sua tren branch 2 lan tiep
 
+
 chinh sua branch 2 lan 12
 chinh tiep lan 12
 W
@@ -19,3 +20,7 @@ chinh sua stash
 chinnh sua j do
 
 met vc
+
+cinh sua gif o o branch 2
+haizz
+
